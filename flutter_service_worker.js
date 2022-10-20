@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ba40f0608fc47044eb6daf0feabbe634",
-"index.html": "d581183bb78039d9d60c076d72b1d87b",
-"/": "d581183bb78039d9d60c076d72b1d87b",
+"index.html": "51452057828dac1536d5fe2fd2649af1",
+"/": "51452057828dac1536d5fe2fd2649af1",
 "main.dart.js": "4f2a534f0bc3eb5188d0bfb70611d517",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -39,11 +38,7 @@ const RESOURCES = {
 "assets/assets/images/svgs/stethoscope%2520(1).svg": "0e8de2c8be43e5312981ae705827a9bc",
 "assets/assets/images/svgs/eye.svg": "d66a18245d935d5831ebeb4efb4004a5",
 "assets/assets/images/svgs/tooth.svg": "25f411ebbc8b77ec17ac50d7f4362c0f",
-"assets/assets/images/svgs/test.svg": "d66a18245d935d5831ebeb4efb4004a5",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/images/svgs/test.svg": "d66a18245d935d5831ebeb4efb4004a5"
 };
 
 // The application shell files that are downloaded before a service worker can
